@@ -1,0 +1,15 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:'Roboto', 'Noto Sans KR', snas-serif;
+}
+.img{
+  width:100%;
+  height:180px;
+  object-fit:cover;
+}
+.title{
+  margin-top:20px;
+  margin-bottom:15px;
+}
